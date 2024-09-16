@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Sheeraz Haider",
+    "label": "Product Manager",
+    "email": "sheerazhaiderkr@gmail.com",
+    "phone": "+642040837518",
+    "location": {
+      "city": "Nelson",
+      "country": "New Zealand"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Sheeraz Haider",
+        "url": "https://www.linkedin.com/in/username"
+      },
+      {
+        "network": "GitHub",
+        "username": "github-username",
+        "url": "https://github.com/sheerazmh"
+      }
+    ]
+  },
+  "summary": "I am a Product Manager looking forward to a new challenge within a well-established organisation and team. With over three years of experience as a Product Manager, I bring expertise in sales, operations, account management, and running my own graphic design business. I have a Masters in Global Media and Communication, a Bachelor's in Computer Science, and advanced Graphic Design knowledge.",
+  "work": [
+    
+    {
+      "company": "Bluethumb",
+      "position": "Product Manager",
+      "startDate": "May 2019",
+      "endDate": "Present",
+      "location": "Australia",
+      "summary": "Bluethumb is Australia’s largest online art marketplace with over 20,000 artists and 25+ Indigenous Art Centres.",
+      "highlights": [
+        "Boosted onsite conversion rate through user research and engagement.",
+        "Designed and launched an onsite direct chat feature between artists and collectors, leading to higher engagement and increased sales.",
+        "Led the addition of framing options for artwork, contributing 15% to overall revenue.",
+        "Introduced self-shipping for top sellers, reducing delivery time from 5 days to 3 days and increasing loyalty.",
+        "Conceptualised The Podium, a secondary art sales platform for collectors."
+      ]
+    },
+    {
+      "company": "Bluethumb",
+      "position": "Sales Manager (VP Sales)",
+      "startDate": "March 2017",
+      "endDate": "May 2019",
+      "location": "Australia",
+      "summary": "Led a team of seven during a time of rapid growth, providing account management to artists and collectors.",
+      "highlights": [
+        "Scaled the sales team from 4 to 7 members.",
+        "Reimagined the artwork commissioning process for custom art orders, increasing custom orders.",
+        "Kept NPS score at the center of decision-making, improving the score from 55 to 70 by the end of 2019.",
+        "Organised fortnightly live webinars for artists, increasing engagement."
+      ]
+    },
+    {
+      "company": "Bluethumb",
+      "position": "Digital Media & Comms (Part-time)",
+      "startDate": "Feb 2016",
+      "endDate": "March 2017",
+      "location": "Australia",
+      "summary": "Handled digital media, content creation, logistics, and feature testing as part of a small team.",
+      "highlights": [
+        "Created content for social media and blogs.",
+        "Organised in-studio photography for established artists.",
+        "Handled logistics enquiries and managed the shipment of online orders."
+      ]
+    },
+    {
+      "company": "Self-Employed",
+      "position": "Graphic Designer",
+      "startDate": "2010",
+      "endDate": "2016",
+      "location": "India",
+      "summary": "Ran a graphic design business, specialising in corporate branding and print designs.",
+      "highlights": [
+        "Worked with major clients like Eco4US (USA), Eco Line Solutions (Australia), and Happiest Hour (Australia).",
+        "Proficient in Adobe Photoshop, CorelDraw, Illustrator, Figma, and Adobe AfterEffects."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Melbourne",
+      "area": "Global Media Communication",
+      "studyType": "Masters",
+      "startDate": "2015",
+      "endDate": "2016"
+    },
+    {
+      "institution": "Reliance Animation, India",
+      "area": "Visual Effects and Film-making",
+      "studyType": "Diploma",
+      "startDate": "2010",
+      "endDate": "2011"
+    },
+    {
+      "institution": "University of Pune, India",
+      "area": "Computer Science",
+      "studyType": "Bachelor's",
+      "startDate": "2007",
+      "endDate": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Product Management",
+      "level": "Expert",
+      "keywords": [
+        "User Research",
+        "Feature Design",
+        "Conversion Optimization"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "level": "Advanced",
+      "keywords": [
+        "Adobe Photoshop",
+        "CorelDraw",
+        "Figma",
+        "Adobe AfterEffects"
+      ]
+    },
+    {
+      "name": "Sales & Operations",
+      "level": "Advanced",
+      "keywords": [
+        "Team Management",
+        "Account Management",
+        "Logistics"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "References",
+      "text": "Provided on request."
+    }
+  ],
+  "additionalInfo": {
+    "workingRights": "I am an Indian citizen with both New Zealand and Australian permanent residency. Able to work full-time in New Zealand."
+  }
+}

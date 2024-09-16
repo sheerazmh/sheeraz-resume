@@ -1,4 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
+
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: #f5f5f5;
+
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +19,60 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+.contact-info p {
+  display: flex;
+  align-items: center;
+}
+
+.contact-info p svg {
+  margin-right: 10px;
+  color: #2980b9;
+}
+
+section h2 svg {
+  margin-right: 10px;
+  color: #2980b9;
+}
+
+.resume-container {
+  width: 70%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 30px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.header h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.header .contact-info {
+  font-size: 14px;
+  color: #7f8c8d;
+}
+.work, .education, .skills, .languages, .references {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
 }
